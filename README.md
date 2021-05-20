@@ -1,0 +1,2 @@
+# corejavafile
+all detail declare
